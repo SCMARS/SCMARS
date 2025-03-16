@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, aiogram, java**
 
-- ⚡ Fun fact **Ukrainian Karting Champion (2023)**
+- ⚡ Fun fact ** I'm Ukrainian Karting Champion (2023)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
