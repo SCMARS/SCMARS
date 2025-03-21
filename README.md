@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Інтенція – a cross-platform mobile game built with React Native + Firebase.**
 
-- 💬 Ask me about **react, aiogram, java**
+- 💬 Ask me about **react, aiogram, typescript**
 
 - ⚡ Fun fact ** I'm Ukrainian Karting Champion (2023)**
 
